@@ -105,9 +105,9 @@ textarea {
 }
 
 .rows:nth-child(odd) .column:nth-child(even) {
-	background-color: #ead0b7;
+	background-color: #f8f1f1;
 }
 
 .rows:nth-child(even) .column:nth-child(odd) {
-	background-color: #ead0b7;
+	background-color: #f8f1f1;
 }
